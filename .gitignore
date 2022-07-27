@@ -1,0 +1,5 @@
+*.pyc
+*.npy
+*.dll
+*__pycache__*
+*.idea

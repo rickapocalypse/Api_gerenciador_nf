@@ -3,3 +3,6 @@
 *.dll
 *__pycache__*
 *.idea
+*.vscode/
+*.env
+db.sqlite3

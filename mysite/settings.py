@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'mysite',
     'provider',
     'notafiscal',
+    'home',
 ]
 
 MIDDLEWARE = [

@@ -1,0 +1,13 @@
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(0, 36, 104);
+}
+
+.navbar-nav{
+    margin: auto;
+}
+.nav-link {
+    margin: auto;
+    letter-spacing: 1px;
+}
